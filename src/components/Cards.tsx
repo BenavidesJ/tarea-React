@@ -7,7 +7,7 @@ const useStyles = makeStyles({
     root: {
         width: 300,
         marginLeft:16,
-        marginRight:16,
+        marginRight:15,
     },
     title: {
       fontSize: 14,
